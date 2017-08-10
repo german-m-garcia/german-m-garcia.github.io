@@ -18,7 +18,9 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 
 | Sequence M (Milk)  | ![image](presentMilk.jpg "License") |
 | Sequence N (Ball)  | ![image](presentBall.jpg "License") |
-
+| Sequence O (Tank)  | ![image](presentTank.jpg "License") |
+| Sequence P (Person)  | ![image](presentChase.jpg "License") |
+| Sequence Q (Lunchbox)  | ![image](presentBox.jpg "License") |
 
 
 
