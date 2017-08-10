@@ -16,43 +16,6 @@ If you publish work based on this benchmark, please cite the following paper:
 Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and Armin B. Cremers 
 DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria 
 
-
-<table cellpadding="0" cellspacing="0">
-												
-				<tbody>
-					<tr>
-						<td>Sequence M (Milk)<br> <a href="http://www.iai.uni-bonn.de/~martin/bobotd/gt_milk.txt">(ground truth)</a></td>
-						<td><a href="http://www.iai.uni-bonn.de/~martin/bobotd/milkS.zip"><img src="./images/presentMilk.jpeg" width="45%" height="45%" alt="milk sequence" /> </a> </td>
-						
-					</tr>
-
-<tr>
-						<td>Sequence N (Ball)<br> <a href="http://www.iai.uni-bonn.de/~martin/bobotd/gt_ball.txt">(ground truth)</a></td>
-						<td><a href="http://www.iai.uni-bonn.de/~martin/bobotd/ballS.zip"><img src="./images/presentBall.jpeg" width="45%" height="45%" alt="milk sequence" /> </a> </td>
-						
-					</tr>
-
-<tr>
-						<td>Sequence O (Tank)<br> <a href="http://www.iai.uni-bonn.de/~martin/bobotd/gt_tank.txt">(ground truth)</a></td>
-						<td><a href="http://www.iai.uni-bonn.de/~martin/bobotd/tankS.zip"><img src="./images/presentTank.jpeg" width="45%" height="45%" alt="milk sequence" /> </a> </td>
-						
-					</tr>
-
-<tr>
-						<td>Sequence P (Person)<br> <a href="http://www.iai.uni-bonn.de/~martin/bobotd/gt_person.txt">(ground truth)</a></td>
-						<td><a href="http://www.iai.uni-bonn.de/~martin/bobotd/personS.zip"><img src="./images/presentChase.jpeg" width="45%" height="45%" alt="milk sequence" /> </a> </td>
-						
-					</tr>
-
-<tr>
-						<td>Sequence Q (Lunchbox)<br> <a href="http://www.iai.uni-bonn.de/~martin/bobotd/gt_box.txt">(ground truth)</a></td>
-						<td><a href="http://www.iai.uni-bonn.de/~martin/bobotd/boxS.zip"><img src="./images/presentBox.jpeg" width="45%" height="45%" alt="milk sequence" /> </a> </td>
-						
-					</tr>
-					
-				</tbody>	
-			</table>
-
 | Sequence M (Milk)  | ![Milk](presentMilk.jpeg "Milk") |
 | Sequence N (Ball)  | ![Ball](presentBall.jpeg "Ball") |
 | Sequence O (Tank)  | ![Tank](presentTank.jpeg "Tank") |
