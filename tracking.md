@@ -10,8 +10,25 @@
 It is an extension of the BoBoT benchmark that contains 5 sequences with RGB-D data. 
 
 
-| ![License](license.png "License") | All the data of this benchmark is released under a CC BY-NC 3.0 license, please read the terms of use at http://creativecommons.org/licenses/by-nc/3.0/
+![image alt <](license.png "License") All the data of this benchmark is released under a CC BY-NC 3.0 license, please read the terms of use at http://creativecommons.org/licenses/by-nc/3.0/
 If you publish work based on this benchmark, please cite the following paper:
 Adaptive Multi-Cue 3D Tracking of Arbitrary Objects
 Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and Armin B. Cremers 
 DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria 
+
+
+img[alt$=">"] {
+  float:right;
+}
+
+img[alt$="<"] {
+  float:left;
+}
+
+img[alt$="<>"] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}
