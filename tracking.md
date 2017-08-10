@@ -17,7 +17,7 @@ Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and
 DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria 
 
 | Sequence M (Milk)  | ![Milk](presentMilk.jpeg "Milk") |
-| Sequence N (Ball)  | ![Ball](presentBall.jpeg "Ball") |
+| Sequence N (Ball)  | ![Ball](presentBall.jpeg "Ball")(https://drive.google.com/uc?id=0BzA882ZfDaNmNGd3UFVWN3dTb28) |
 | Sequence O (Tank)  | ![Tank](presentTank.jpeg "Tank") |
 | Sequence P (Person)  | ![Person](presentChase.jpeg "Person") |
 | Sequence Q (Lunchbox)  | ![Lunchbox](presentBox.jpeg "Lunchbox") |
