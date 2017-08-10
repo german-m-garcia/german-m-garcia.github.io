@@ -17,18 +17,4 @@ Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and
 DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria 
 
 
-img[alt$=">"] {
-  float:right;
-}
 
-img[alt$="<"] {
-  float:left;
-}
-
-img[alt$="<>"] {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: auto;
-    float: none!important;
-}
