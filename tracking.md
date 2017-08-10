@@ -16,11 +16,11 @@ If you publish work based on this benchmark, please cite the following paper:
 Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and Armin B. Cremers 
 DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria 
 
-| Sequence M (Milk)  | ![image](presentMilk.jpg "License") |
-| Sequence N (Ball)  | ![image](presentBall.jpg "License") |
-| Sequence O (Tank)  | ![image](presentTank.jpg "License") |
-| Sequence P (Person)  | ![image](presentChase.jpg "License") |
-| Sequence Q (Lunchbox)  | ![image](presentBox.jpg "License") |
+| Sequence M (Milk)  | ![image](presentMilk.jpg "Milk") |
+| Sequence N (Ball)  | ![image](presentBall.jpg "Ball") |
+| Sequence O (Tank)  | ![image](presentTank.jpg "Tank") |
+| Sequence P (Person)  | ![image](presentChase.jpg "Person") |
+| Sequence Q (Lunchbox)  | ![image](presentBox.jpg "Lunchbox") |
 
 
 
