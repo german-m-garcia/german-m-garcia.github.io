@@ -12,15 +12,16 @@ It is an extension of the BoBoT benchmark that contains 5 sequences with RGB-D d
 
 ![image alt <](license.png "License") All the data of this benchmark is released under a CC BY-NC 3.0 license, please read the terms of use at http://creativecommons.org/licenses/by-nc/3.0/
 If you publish work based on this benchmark, please cite the following paper:
+
 *Adaptive Multi-Cue 3D Tracking of Arbitrary Objects*
 Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and Armin B. Cremers 
 DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria 
 
-| [Sequence M (Milk)](https://drive.google.com/uc?id=0BzA882ZfDaNmX1BReXN4WU1POU0)  | ![Milk](presentMilk.jpeg "Milk") |
-| [Sequence N (Ball)] (https://drive.google.com/uc?id=0BzA882ZfDaNmNGd3UFVWN3dTb28)  | ![Ball](presentBall.jpeg "Ball") |
+| [Sequence M (Milk)](https://drive.google.com/uc?id=0BzA882ZfDaNmX1BReXN4WU1POU0&export=download)  | ![Milk](presentMilk.jpeg "Milk") |
+| [Sequence N (Ball)](https://drive.google.com/uc?id=0BzA882ZfDaNmNGd3UFVWN3dTb28&export=download)  | ![Ball](presentBall.jpeg "Ball") |
 | [Sequence O (Tank)] ()  | ![Tank](presentTank.jpeg "Tank") |
 | [Sequence P (Person)] ()  | ![Person](presentChase.jpeg "Person") |
-| [Sequence Q (Lunchbox)] (https://drive.google.com/uc?id=0BzA882ZfDaNmTFRxVm9GdUkzbzg&export=download)  | ![Lunchbox](presentBox.jpeg "Lunchbox") |
+| [Sequence Q (Lunchbox)](https://drive.google.com/uc?id=0BzA882ZfDaNmTFRxVm9GdUkzbzg&export=download)  | ![Lunchbox](presentBox.jpeg "Lunchbox") |
 
 
 
