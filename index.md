@@ -4,7 +4,7 @@ This is my personal website. You can find here a summary of my work and publicat
 
 ### Recent publications
 
-Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator 
+*Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator*
 Seongyong Koo, Grzegorz Ficht, Germán Martín García, Dmytro
 Pavlichenko, Martin Raak and Sven Behnke
 [PDF](http://ais.uni-bonn.de/papers/CASE_2017_Koo.pdf)		
@@ -15,11 +15,14 @@ Engineering (CASE), Xi'an, China, to appear August 2017.
 
 ### AIS University of Bonn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1-09-2017 - Present
 
 ### IAIS University of Bonn
 
+15-02-2012 - 27-07-2015
+
 #### RGB-D Tracking
+This is the work I did as a Master Student at the AIS group on RGB-D tracking:
 [RGB-D Tracking](tracking.md)
 
 ```markdown
