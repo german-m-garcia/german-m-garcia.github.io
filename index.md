@@ -13,7 +13,7 @@ This is my personal website. You can find here a summary of my work and publicat
 
 ### Recent publications
 
-**Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator**
+__Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator__
 Seongyong Koo, Grzegorz Ficht, Germán Martín García, Dmytro
 Pavlichenko, Martin Raak and Sven Behnke
 [PDF](http://ais.uni-bonn.de/papers/CASE_2017_Koo.pdf)	
@@ -21,7 +21,7 @@ Accepted for the 13th IEEE International Conference on Automation Science and
 Engineering (CASE), Xi'an, China, to appear August 2017.
 [Video](http://ais.uni-bonn.de/videos/CASE_2017_Koo.mp4)
 
-**A Computational Framework for RGB-D Attentional Object Discovery**
+__A Computational Framework for RGB-D Attentional Object Discovery__
 Germán Martín García, Mircea Pavel and Simone Frintrop
 Cognitive Processing 2017
 
