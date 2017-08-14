@@ -1,8 +1,17 @@
 ## Homepage of German Martin Garcia
 
-You can use the [editor on GitHub](https://github.com/german-m-garcia/german-m-garcia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is my personal website. You can find here a summary of my work and publications.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Recent publications
+
+Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator 
+Seongyong Koo, Grzegorz Ficht, Germán Martín García, Dmytro
+Pavlichenko, Martin Raak and Sven Behnke
+[PDF](http://ais.uni-bonn.de/papers/CASE_2017_Koo.pdf)		
+Accepted for the 13th IEEE International Conference on Automation Science and
+Engineering (CASE), Xi'an, China, to appear August 2017.
+[Video](http://ais.uni-bonn.de/videos/CASE_2017_Koo.mp4)
+
 
 ### AIS University of Bonn
 
