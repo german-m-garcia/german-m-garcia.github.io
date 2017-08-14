@@ -4,11 +4,14 @@ This is my personal website. You can find here a summary of my work and publicat
 
 ### Short Bio
 
-1-09-2017 - Present: Autonomous Intelligent Systems - University of Bonn (Postdoc)
+1-09-2017 - Present:
+Postdoc in Autonomous Intelligent Systems - University of Bonn
 
-15-02-2012 - 27-07-2015: Intelligent Vision Systems - University of Bonn (PhD.)
+15-02-2012 - 27-07-2015
 
-1-09-2009 - 15-02-2012: MSc in Computer Science - University of Bonn (MSc)
+PhD Student in Intelligent Vision Systems - University of Bonn
+
+1-09-2009 - 15-02-2012: MSc in Computer Science - University of Bonn
 
 
 ### Recent publications
@@ -25,6 +28,6 @@ __A Computational Framework for RGB-D Attentional Object Discovery__
 Germán Martín García, Mircea Pavel and Simone Frintrop
 Cognitive Processing 2017
 
-#### RGB-D Tracking
+#### RGB-D Object Tracking
 This is the work I did as a Master Student at the AIS group on RGB-D tracking:
 [RGB-D Tracking](tracking.md)
