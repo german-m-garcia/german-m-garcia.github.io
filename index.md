@@ -35,10 +35,15 @@ This is a list of projects I have been involved in the past years
 ### Amazon Robotics Challenge
 
 <iframe src="https://www.youtube.com/embed/1QqQLq5hsN4?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-<p><a href="https://www.ais.uni-bonn.de/nimbro/Picking/index.html">Team NimbRo Picking</a> </p>
+<p>As part of the <a href="https://www.ais.uni-bonn.de/nimbro/Picking/index.html">Team NimbRo Picking</a> we ended second in the final round and second in the pick task of the <a href="https://www.amazonrobotics.com/#/roboticschallenge">Amazon Robotics Challenge</a> </p>
+
+### STAMINA
+<iframe src="https://www.youtube.com/embed/OInHDueqnQ8?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<p>Sustainable and Reliable Robotics for Part Handling in Manufacturing Automation. This european project dealt with the intralogistics of automotive parts. At the University of Bonn we dealt with the perception and picking of parts. More information at the <a href="http://stamina-robot.eu/">project website</a> </p>
 
 ### Object Discovery
 
+During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from the cognitive sciences and applied it to build computer vision systems. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
 
 
 ### RGB-D Object Tracking
