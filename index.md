@@ -9,6 +9,8 @@ This is my personal website. You can find here a summary of my work and publicat
 |February-2012 - July-2015| PhD Student |Intelligent Vision Systems - University of Bonn|
 
 |September-2009 - February-2012| MSc in Computer Science |University of Bonn|
+|September 2008 - August 2009| Software Engineer at Deimos-Space| Madrid, Spain|
+|September 2002 - July 2002| Computer Science | Universidad Autónoma de Madrid, Spain|
 
 
 ### Recent publications
