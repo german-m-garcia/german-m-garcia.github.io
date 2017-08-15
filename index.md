@@ -9,7 +9,7 @@ This is my personal website. You can find here a summary of my work and publicat
 |February-2012 - July-2015| PhD Student | Intelligent Vision Systems - University of Bonn|
 |September-2009 - February-2012|MSc in Computer Science |University of Bonn|
 |September 2008 - August 2009|Software Engineer at Deimos-Space| Madrid, Spain|
-|September 2002 - July 2002|Computer Science | Universidad Autónoma de Madrid, Spain|
+|September 2002 - July 2002| BSc. Computer Science | Universidad Autónoma de Madrid, Spain|
 
 
 ### Recent publications
@@ -38,6 +38,10 @@ This is a list of projects I have been involved in the past years
 ### STAMINA
 <iframe src="https://www.youtube.com/embed/OInHDueqnQ8?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 <p>Sustainable and Reliable Robotics for Part Handling in Manufacturing Automation. This european project dealt with the intralogistics of automotive parts. At the University of Bonn we dealt with the perception and picking of parts. More information at the <a href="http://stamina-robot.eu/">project website</a> </p>
+
+### EUROC2
+<iframe src="https://www.youtube.com/embed/3DQ-U5UZBWUOU?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+A smaller scale version of the STAMINA project on a Kuka mobile platform.
 
 ### Object Discovery
 
