@@ -3,7 +3,7 @@
 This is my personal website. You can find here a summary of my work and publications.
 
 ### Short Bio
-
+| ------------- |:-------------:| -----:|
 |September-2017 - Present|'< ' Postdoc |Autonomous Intelligent Systems - University of Bonn|
 
 |February-2012 - July-2015|'< ' PhD Student |Intelligent Vision Systems - University of Bonn|
