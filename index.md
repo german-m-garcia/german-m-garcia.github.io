@@ -4,14 +4,11 @@ This is my personal website. You can find here a summary of my work and publicat
 
 ### Short Bio
 
-1-09-2017 - Present:
-Postdoc in Autonomous Intelligent Systems - University of Bonn
+|September-2017 - Present| Postdoc |Autonomous Intelligent Systems - University of Bonn|
 
-15-02-2012 - 27-07-2015
+|February-2012 - July-2015| PhD Student |Intelligent Vision Systems - University of Bonn|
 
-PhD Student in Intelligent Vision Systems - University of Bonn
-
-1-09-2009 - 15-02-2012: MSc in Computer Science - University of Bonn
+|September-2009 - February-2012| MSc in Computer Science |University of Bonn|
 
 
 ### Recent publications
