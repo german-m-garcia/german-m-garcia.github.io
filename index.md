@@ -51,7 +51,7 @@ A smaller scale version of the STAMINA project on a Kuka mobile platform.
 During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from the cognitive sciences and applied it to build computer vision systems. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
 
 
-### RGB-D Object Tracking
+### [RGB-D Object Tracking](tracking.md)
 This is the work I did as a Master Student at the IVS group on RGB-D tracking:
 <iframe src="https://player.vimeo.com/video/33781357" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
