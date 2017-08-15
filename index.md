@@ -1,4 +1,4 @@
-## Homepage of German Martin Garcia
+## Homepage of Germán Martín García
 
 This is my personal website. You can find here a summary of my work and publications.
 
@@ -7,6 +7,7 @@ This is my personal website. You can find here a summary of my work and publicat
 | ------------- |:-------------:| -----:|
 |September-2017 - Present | Postdoc | Autonomous Intelligent Systems - University of Bonn|
 |February-2012 - July-2015| PhD Student | Intelligent Vision Systems - University of Bonn|
+|August-2011 - January-2012| Student Assistant | Intelligent Vision Systems - University of Bonn|
 |September-2009 - February-2012|MSc in Computer Science |University of Bonn|
 |September 2008 - August 2009|Software Engineer at Deimos-Space| Madrid, Spain|
 |September 2002 - July 2002| BSc. Computer Science | Universidad Autónoma de Madrid, Spain|
