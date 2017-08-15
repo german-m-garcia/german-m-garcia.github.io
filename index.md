@@ -44,9 +44,12 @@ This is a list of projects I have been involved in the past years
 ### Object Discovery
 
 ![](colour_90.jpeg){:height="96px" width="128px"} ![](frame-000090.png){:height="96px" width="128px"} 
+
 During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from the cognitive sciences and applied it to build computer vision systems. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
 
 
 ### RGB-D Object Tracking
 This is the work I did as a Master Student at the IVS group on RGB-D tracking:
-[RGB-D Tracking](tracking.md)
+<iframe src="https://player.vimeo.com/video/33781357" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<p><a href="https://vimeo.com/33781357">Adaptive Object Tracking. RC Leopard Sequence</a> from <a href="https://vimeo.com/germanmg">German Martin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+More information can be found here [RGB-D Tracking](tracking.md)
