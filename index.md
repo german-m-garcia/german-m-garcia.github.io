@@ -34,7 +34,7 @@ This is a list of projects I have been involved in the past years
 
 ### Amazon Robotics Challenge
 
-<iframe src="https://www.youtube.com/watch?v=1QqQLq5hsN4" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<iframe src="https://www.youtube.com/embed/1QqQLq5hsN4?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 <p><a href="https://www.ais.uni-bonn.de/nimbro/Picking/index.html">Team NimbRo Picking</a> </p>
 
 ### Object Discovery
