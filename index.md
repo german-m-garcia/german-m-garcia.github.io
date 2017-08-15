@@ -42,7 +42,8 @@ This is a list of projects I have been involved in the past years
 <p>Sustainable and Reliable Robotics for Part Handling in Manufacturing Automation. This european project dealt with the intralogistics of automotive parts. At the University of Bonn we dealt with the perception and picking of parts. More information at the <a href="http://stamina-robot.eu/">project website</a> </p>
 
 ### Object Discovery
-![Coffee Machine Sequence](colour_90.jpeg =64x48) ![Ground truth](frame-000090.png =64x48)
+
+![](colour_90.jpeg){:height="48px" width="64px"} ![](frame-000090.png =64x48){:height="48px" width="64px"}
 During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from the cognitive sciences and applied it to build computer vision systems. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
 
 
