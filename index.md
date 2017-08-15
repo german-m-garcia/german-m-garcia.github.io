@@ -40,7 +40,7 @@ This is a list of projects I have been involved in the past years
 <p>Sustainable and Reliable Robotics for Part Handling in Manufacturing Automation. This european project dealt with the intralogistics of automotive parts. At the University of Bonn we dealt with the perception and picking of parts. More information at the <a href="http://stamina-robot.eu/">project website</a> </p>
 
 ### EUROC2
-<iframe src="https://www.youtube.com/embed/3DQ-U5UZBWUOU?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<iframe src="https://www.youtube.com/embed/Q-U5UZBWUOU?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 A smaller scale version of the STAMINA project on a Kuka mobile platform.
 
 ### Object Discovery
@@ -53,5 +53,5 @@ During my PhD I worked on the topic of object proposal generation/object discove
 ### RGB-D Object Tracking
 This is the work I did as a Master Student at the IVS group on RGB-D tracking:
 <iframe src="https://player.vimeo.com/video/33781357" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-<p><a href="https://vimeo.com/33781357">Adaptive Object Tracking. RC Leopard Sequence</a> from <a href="https://vimeo.com/germanmg">German Martin</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
 More information can be found here [RGB-D Tracking](tracking.md)
