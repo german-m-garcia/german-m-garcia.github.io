@@ -25,4 +25,7 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 | [Ground truth files](gt.zip) | [Evaluation tool](evaluator.zip) |
 
 
+### Results
 
+| Milk || Ball || Tank || Person || Box || Averages ||
+|Overlap|Hit||Overlap|Hit||Overlap|Hit||Overlap|Hit||Overlap|Hit||Overlap|Hit|
