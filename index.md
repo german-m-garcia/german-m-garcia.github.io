@@ -15,7 +15,7 @@ This is my personal website. You can find here a summary of my work and publicat
 
 ### Recent publications
 
-_Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator_
+_Robolink Feeder: Reconfigurable Bin-Picking and Feeding with a Lightweight Cable-Driven Manipulator_ <br/>
 Seongyong Koo, Grzegorz Ficht, Germán Martín García, Dmytro Pavlichenko, Martin Raak and Sven Behnke	
 Accepted for the 13th IEEE International Conference on Automation Science and Engineering (CASE), Xi'an, China, to appear August 2017.
 [PDF](http://ais.uni-bonn.de/papers/CASE_2017_Koo.pdf)
@@ -65,6 +65,4 @@ More information can be found here [RGB-D Tracking](tracking.md)
 
   ga('create', 'UA-105312259-1', 'auto');
   ga('send', 'pageview');
-  alert('julk');
-
 </script>
