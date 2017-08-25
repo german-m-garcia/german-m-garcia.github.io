@@ -22,7 +22,7 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 | [Sequence O (Tank)](https://drive.google.com/uc?id=0BzA882ZfDaNmNFFubnBzRHNOOXM&export=download)  | ![Tank](presentTank.jpeg "Tank") |
 | [Sequence P (Person)](https://drive.google.com/uc?id=0BzA882ZfDaNmU2FsZVJhNmZ3UWs&export=download)  | ![Person](presentChase.jpeg "Person") |
 | [Sequence Q (Lunchbox)](https://drive.google.com/uc?id=0BzA882ZfDaNmTFRxVm9GdUkzbzg&export=download)  | ![Lunchbox](presentBox.jpeg "Lunchbox") |
-| [Ground truth files](gt.zip) | (Evaluation tool)[evaluator.zip] |
+| [Ground truth files](gt.zip) | [Evaluation tool](evaluator.zip) |
 
 
 
