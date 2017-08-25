@@ -46,7 +46,7 @@ A smaller scale version of the STAMINA project on a Kuka mobile platform.
 
 ### Object Discovery
 ![](colour_90.jpeg){:height="96px" width="128px"} ![](frame-000090.png){:height="96px" width="128px"} 
-![] (concept.png)
+![](concept.png)
 During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from the cognitive sciences and applied it to build computer vision systems. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
 
 
