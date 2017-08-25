@@ -57,7 +57,7 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 			</thead>
 				<tbody>
 					<tr>
-						<td>Adaptive 3D Tracking<a href="#Adaptive"> [1]</a></td>
+						<td>Adaptive 3D Tracking [1]</td>
 						<td>73.47</td>
 						<td>96.77</td>
 						<td>69.80</td>
@@ -74,7 +74,7 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 					</tr>
 					
 					<tr>
-						<td>DS-KCF<a href="#KCF"> [2]</a></td>
+						<td>DS-KCF[2]</td>
 						<td>76.6</td>
 						<td>100.0</td>
 						<td>7.9</td>
@@ -92,7 +92,7 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 					             
 					
 					<tr>
-						<td>Person Tracking <a href="#Efficient">[3]</a></td>
+						<td>Person Tracking [3]</td>
 						<td>-</td>
 						<td>-</td>
 						<td>-</td>
