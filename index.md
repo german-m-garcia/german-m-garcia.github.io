@@ -65,5 +65,6 @@ More information can be found here [RGB-D Tracking](tracking.md)
 
   ga('create', 'UA-105312259-1', 'auto');
   ga('send', 'pageview');
+  alert('julk');
 
 </script>
