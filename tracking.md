@@ -27,6 +27,93 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 
 ### Results
 
-| Milk || Ball || Tank || Person || Box || Averages ||
-|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-|Overlap|Hit||Overlap|Hit||Overlap|Hit||Overlap|Hit||Overlap|Hit||Overlap|Hit|
+<table cellpadding="0" cellspacing="0" >
+				<thead>
+					<tr>
+						<th></th>
+						<th class="center" colspan="2" >Milk</th>
+						<th class="center" colspan="2" >Ball</th>
+						<th class="center" colspan="2" >Tank</th>
+						<th class="center" colspan="2" >Person</th>
+						<th class="center" colspan="2" >Box</th>
+						<th class="center" colspan="3">Averages</th>
+					</tr>
+					<tr style="width: 50%">
+						<th></th>
+						<th>Overlap</th>
+						<th>Hit</th>
+						<th>Overlap</th>
+						<th>Hit</th>
+						<th>Overlap</th>
+						<th>Hit</th>
+						<th>Overlap</th>
+						<th>Hit</th>
+						<th>Overlap</th>
+						<th>Hit</th>
+						<th>CPU</th>
+						<th>Overlap</th>
+						<th>Hit</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td>Adaptive 3D Tracking<a href="#Adaptive"> [1]</a></td>
+						<td>73.47</td>
+						<td>96.77</td>
+						<td>69.80</td>
+						<td>96.91</td>
+						<td>55.33</td>
+						<td>94.09</td>
+						<td>70.67</td>
+						<td>95.32</td>
+						<td>73.10</td>
+						<td>99.81</td>
+						<td>30.69</td>
+						<td>68.47</td>
+						<td>96.58</td>
+					</tr>
+					
+					<tr>
+						<td>DS-KCF<a href="#KCF"> [2]</a></td>
+						<td>76.6</td>
+						<td>100.0</td>
+						<td>7.9</td>
+						<td>10.3</td>
+						<td>43.9</td>
+						<td>72.5</td>
+						<td>73.4</td>
+						<td>98.0</td>
+						<td>66.1</td>
+						<td>100.0</td>
+						<td>30</td>
+						<td>53.6</td>
+						<td>76.2</td>
+					</tr>
+					             
+					
+										<tr>
+						<td>Person Tracking <a href="#Efficient">[3]</a></td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>80.09</td>
+						<td>96.04</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+						<td>-</td>
+					</tr>
+
+				</tbody>	
+			</table>
+			<p>If you have new results to report, please send me an <a href="mailto:martin@iai.uni-bonn.de?Subject=BoBoT-D" target="_top">email</a> and I will update the results!
+			</p>
+			<b>References:</b> 
+			</br> <a id="Adaptive"> [1]</a> Germ&aacute;n Mart&iacute;n Garc&iacute;a, Dominik A. Klein, J&ouml;rg St&uuml;ckler, Simone Frintrop, and Armin B. Cremers, Adaptive Multi-Cue 3D Tracking of Arbitrary Objects, DAGM-OAGM Conference, August 28-31, 2012, Graz, Austria
+			</br> <a id="KCF"> [2]</a> M. Camplani, S. Hannuna,  M. Mirmehdi, D. Damen, A. Paiement, L. Tao, T. Burghardt. Real-time RGB-D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling. British Machine Vision Conference, September 2015.
+			</br><a href="http://www.irc-sphere.ac.uk/work-package-2/DS-KCF">DS-KCF webpage</a>
+			</br> <a id="Efficient"> [3]</a> Hans Gaiser, B.S. (2012), Efficient Person Tracking based on Depth data. Bachelor Thesis, Technical University of Delft.
