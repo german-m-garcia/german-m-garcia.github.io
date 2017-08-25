@@ -46,7 +46,16 @@ A smaller scale version of the STAMINA project on a Kuka mobile platform.
 
 ### Object Discovery
 ![](concept.png)
-During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from the cognitive sciences and applied it to build computer vision systems. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
+During my PhD I worked on the topic of object proposal generation/object discovery. I drew inspiration from cognitive sciences and applied it to build a computer vision system to generate object candidates on images. My PhD thesis is available [online](http://hss.ulb.uni-bonn.de/2016/4426/4426.htm)
+
+Some relevant publications are:
+
+_Saliency-based Object Discovery on RGB-D Data with a Late-Fusion Approach_</br>
+Germán Martín García, Ekaterina Potapova, Thomas Werner, Michael Zillich, Markus Vincze, and Simone Frintrop </br> IEEE International Conference on Robotics and Automation (ICRA 2015), Seattle, May 2015 [PDF](http://pages.iai.uni-bonn.de/frintrop_simone/paper/gmg-etal-ICRA2015.pdf)
+
+_Sequence-Level Object Candidates Based on Saliency for Generic Object Recognition on Mobile Systems_ </br>
+Esther Horbert, Germán Martín García, Simone Frintrop, and Bastian Leibe.</br> IEEE International Conference on Robotics and Automation (ICRA 2015), Seattle, May 2015  [PDF](http://pages.iai.uni-bonn.de/frintrop_simone/paper/horbert-etal-ICRA2015.pdf)</br>
+_Best vision paper award finalist_
 
 
 ### [RGB-D Object Tracking](tracking.md)
