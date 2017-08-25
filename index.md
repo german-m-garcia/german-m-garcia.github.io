@@ -54,7 +54,7 @@ _Saliency-based Object Discovery on RGB-D Data with a Late-Fusion Approach_<br/>
 Germán Martín García, Ekaterina Potapova, Thomas Werner, Michael Zillich, Markus Vincze, and Simone Frintrop<br/> IEEE International Conference on Robotics and Automation (ICRA 2015), Seattle, May 2015 [PDF](http://pages.iai.uni-bonn.de/frintrop_simone/paper/gmg-etal-ICRA2015.pdf)
 
 _Sequence-Level Object Candidates Based on Saliency for Generic Object Recognition on Mobile Systems_ <br/>
-Esther Horbert, Germán Martín García, Simone Frintrop, and Bastian Leibe.</br> IEEE International Conference on Robotics and Automation (ICRA 2015), Seattle, May 2015  [PDF](http://pages.iai.uni-bonn.de/frintrop_simone/paper/horbert-etal-ICRA2015.pdf)<br/>
+Esther Horbert, Germán Martín García, Simone Frintrop, and Bastian Leibe.<br/> IEEE International Conference on Robotics and Automation (ICRA 2015), Seattle, May 2015  [PDF](http://pages.iai.uni-bonn.de/frintrop_simone/paper/horbert-etal-ICRA2015.pdf)<br/>
 _Best vision paper award finalist_
 
 
