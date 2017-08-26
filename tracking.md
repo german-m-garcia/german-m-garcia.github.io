@@ -113,7 +113,7 @@ DAGM/OAGM Conference, August 28-31, 2012, Graz, Austria
 
 If you have new results to report, please send me an [email](mailto:martin@iai.uni-bonn.de?Subject=BoBoT-D) and I will update the results!
 __References:__
-<br/> \[1\] Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and Armin B. Cremers, Adaptive Multi-Cue 3D Tracking of Arbitrary Objects, DAGM-OAGM Conference, August 28-31, 2012, Graz, Austria
-<br/> \[2\] M. Camplani, S. Hannuna,  M. Mirmehdi, D. Damen, A. Paiement, L. Tao, T. Burghardt. Real-time RGB-D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling. British Machine Vision Conference, September 2015.
+<br/> \[1\] _Adaptive Multi-Cue 3D Tracking of Arbitrary Objects_. Germán Martín García, Dominik A. Klein, Jörg Stückler, Simone Frintrop, and Armin B. Cremers. DAGM-OAGM Conference, August 28-31, 2012, Graz, Austria
+<br/> \[2\] _Real-time RGB-D Tracking with Depth Scaling Kernelised Correlation Filters and Occlusion Handling_. M. Camplani, S. Hannuna,  M. Mirmehdi, D. Damen, A. Paiement, L. Tao, T. Burghardt. British Machine Vision Conference, September 2015.
 <br/>[DS-KCF webpage](http://www.irc-sphere.ac.uk/work-package-2/DS-KCF)
-<br/> \[3\] Hans Gaiser, B.S. (2012), Efficient Person Tracking based on Depth data. Bachelor Thesis, Technical University of Delft.
+<br/> \[3\] _Efficient Person Tracking based on Depth data_. Hans Gaiser, B.S. Bachelor Thesis (2012), Technical University of Delft.
