@@ -59,10 +59,10 @@ _Best vision paper award finalist_
 
 
 ### [RGB-D Object Tracking](tracking.md)
-This is the work I did as a Master Student at the IVS group on RGB-D tracking:
+This is the work I did as a Master Student at the IVS group on RGB-D tracking. More information can be found here [RGB-D Tracking](tracking.md)
+
 <iframe src="https://player.vimeo.com/video/33781357" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 
-More information can be found here [RGB-D Tracking](tracking.md)
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
