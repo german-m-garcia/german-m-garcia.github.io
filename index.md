@@ -31,11 +31,6 @@ Full list of publications at [google scholar](https://scholar.google.de/citation
 
 This is a list of projects I have been involved in the past years
 
-### Amazon Robotics Challenge
-
-<iframe src="https://www.youtube.com/embed/1QqQLq5hsN4?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
-<p>As part of the <a href="https://www.ais.uni-bonn.de/nimbro/Picking/index.html">Team NimbRo Picking</a> we ended second in the final round and second in the pick task of the <a href="https://www.amazonrobotics.com/#/roboticschallenge">Amazon Robotics Challenge</a> </p>
-
 ### STAMINA
 <iframe src="https://www.youtube.com/embed/OInHDueqnQ8?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 <p>Sustainable and Reliable Robotics for Part Handling in Manufacturing Automation. This european project dealt with the intralogistics of automotive parts. At the University of Bonn we dealt with the perception and picking of parts. More information at the <a href="http://www.ais.uni-bonn.de/STAMINA/">project website</a> </p>
@@ -43,6 +38,12 @@ This is a list of projects I have been involved in the past years
 ### EUROC2
 <iframe src="https://www.youtube.com/embed/Q-U5UZBWUOU?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
 A smaller scale version of the STAMINA project on a Kuka mobile platform.
+
+### Amazon Robotics Challenge
+
+<iframe src="https://www.youtube.com/embed/1QqQLq5hsN4?rel=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen> </iframe>
+<p>As part of the <a href="https://www.ais.uni-bonn.de/nimbro/Picking/index.html">Team NimbRo Picking</a> we ended second in the final round and second in the pick task of the <a href="https://www.amazonrobotics.com/#/roboticschallenge">Amazon Robotics Challenge</a> </p>
+
 
 ### Object Discovery
 ![](concept.png)
